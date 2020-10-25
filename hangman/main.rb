@@ -20,7 +20,6 @@ word = File.readlines(__dir__ + '/data/words.txt',
 game = Game.new(word)
 console_interface = ConsoleInterface.new(game)
 
-
 # 3.Пока не закончилась игра:
 until game.over?
 #  3.1 Вывести очередное состояние игры
