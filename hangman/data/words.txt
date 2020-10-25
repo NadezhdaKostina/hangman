@@ -1,12 +1,6 @@
 SUNSHINE
 SKY
-CHESS
-TREE
-FOREST
-MOSCOW
-NOTEBOOK
-RUBY
-CHILD
-GIRL
+РЕБЁНОК
 ЁЖИК
 ЙОГУРТ
+ДИЗАЙНЕР
